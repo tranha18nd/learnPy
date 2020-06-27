@@ -10,4 +10,5 @@ class myClass():
 newClass = myClass()
 newClass.convert()
 newClass.binhphuong()
+
 		
